@@ -1,0 +1,32 @@
+.labelInRed{
+   color:red;
+}
+.labelInGreen{
+   color:green;
+}
+
+
+.prettyButton{
+    background-color: burlywood;
+    border-radius: 6px;
+    padding: 10px;
+    color: black;
+    border: 0;
+}
+
+
+
+/* clases para los deberes */
+
+.labelXL{
+   font-size: 20pt !important;
+}
+.labelXS{
+   font-size: 8pt;
+}
+
+.centeredDiv{
+/* rellenar con atributos para aliniar el texto en el centro */ 
+/* mirar http://www.w3schools.com/css/css_text.asp */
+}
+
