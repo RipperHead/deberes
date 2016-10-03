@@ -1,3 +1,4 @@
-$(".showAlert").hover(function(){
-    alert("Mensaje:");
+$("showAlert").hover(function(){
+    alert("Mensaje: !");
 });
+

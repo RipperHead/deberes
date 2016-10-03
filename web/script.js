@@ -49,7 +49,9 @@ $("#deltext").click(function () {
     $("#label").empty();
 
 });
-
+function changeAlert(){
+    alert("Valor modificado");
+}
 
 //funciones para deberes
 /* para mas info mirar http://www.w3schools.com/jquery/default.asp */

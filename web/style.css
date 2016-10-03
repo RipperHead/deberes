@@ -27,6 +27,15 @@
 
 .centeredDiv{
 /* rellenar con atributos para aliniar el texto en el centro */ 
-/* mirar http://www.w3schools.com/css/css_text.asp */
+/* mirar http://www.w3schools.com/css/css_text.asp
+ */
+    text-align: center;
 }
-
+.footer{
+    position:relative;
+}
+.bottom{
+    position: absolute;
+    bottom:0;
+    right: 0;
+}
